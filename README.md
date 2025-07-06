@@ -7,7 +7,6 @@
 ---
 
 ## 🧠 My Toolbox
-## 🧠 My Toolbox
 
 - **Languages**: Python, C, C++
 - **Foundations**: Data Structures & Algorithms (DSA)
