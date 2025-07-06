@@ -7,12 +7,17 @@
 ---
 
 ## 🧠 My Toolbox
-- **Languages**: Python, C
+## 🧠 My Toolbox
+
+- **Languages**: Python, C, C++
+- **Foundations**: Data Structures & Algorithms (DSA)
 - **Libraries**: NumPy, Pandas, scikit-learn, seaborn, matplotlib
 - **Deep Learning**: TensorFlow, PyTorch, Keras
+- **Computer Vision**: OpenCV, YOLOv5/YOLOv8, image preprocessing, object detection
 - **NLP**: BERT, Transformers (Hugging Face), NLTK
-- **Visualization**: Power BI, Excel
-- **Deployment**: Streamlit, Git
+- **Backend / APIs**: FastAPI (Python APIs for ML/DL models)
+- **Visualization**: Power BI, Excel, matplotlib
+- **Deployment & Tools**: Streamlit, Git, GitHub, FastAPI, Jupyter Notebooks
 
 ---
 
